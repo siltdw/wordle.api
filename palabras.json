@@ -1,0 +1,24 @@
+
+{"diccionario": 
+    [
+        {"id":"1","palabra":"amigo","ingles":"friend"},
+        {"id":"2","palabra":"libro","ingles":"book"},
+        {"id":"3","palabra":"viaje","ingles":"travel"},
+        {"id":"4","palabra":"salud","ingles":"health"},
+        {"id":"5","palabra":"silla","ingles":"chair"},
+        {"id":"6","palabra":"leche","ingles":"milk"},
+        {"id":"7","palabra":"fruta","ingles":"fruit"},
+        {"id":"8","palabra":"nieve","ingles":"snow"},
+        {"id":"9","palabra":"playa","ingles":"beach"},
+        {"id":"10","palabra":"gente","ingles":"people"},
+        {"id":"11","palabra":"listo","ingles":"ready"},
+        {"id":"12","palabra":"guiso","ingles":"stew"},
+        {"id":"13","palabra":"jamon","ingles":"ham"},
+        {"id":"14","palabra":"queso","ingles":"cheese"},
+        {"id":"15","palabra":"perro","ingles":"dog"},
+        {"id":"16","palabra":"panel","ingles":"panel"},
+        {"id":"17","palabra":"causa","ingles":"cause"},
+        {"id":"18","palabra":"borde","ingles":"border"}
+
+    ]
+}
